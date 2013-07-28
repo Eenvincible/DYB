@@ -7,19 +7,17 @@ Definition:
     DYB is a project aimed at providing users simple ways to donate their birthdays and make a difference in the world. Uses of this application will be able to sign up, login, upload photos from their computers, smartphones, tablets etc of their birthdays as proof of them doing something charitable to someone else on their birthday.
 
 Technologies:
-	-> Python - Currently Python27
-	-> jQuery - latest
-	-> HTML5
-	-> CSS, CSS3
-	-> Google App Engine - latest
-	-> Webapp2 or webapp
-	-> Third-party APIs
-		-> Facebook API
-		-> Twitter API
-			-> v1.1
-		-> Google+
-		-> Others
-	-> Others as deemed appropriate!
+Python - Currently Python27
+jQuery - latest
+HTML5
+CSS, CSS3
+Google App Engine - latest
+Webapp2 or webapp
+Third-party APIs
+Facebook API
+Twitter API - v1.1
+Google+
+Others as deemed appropriate!
 
 
 
